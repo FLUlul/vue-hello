@@ -11,7 +11,8 @@ var app = new Vue (
     {
         el: "#container",
         data: {
-            message: "Hello Vue!"
+            message: "Hello Vue!",
+            image: "https://unsplash.it/1500/500?image=666"
         }
     }
 );
